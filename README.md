@@ -1,7 +1,7 @@
 # heif_to_jpg
 Simple python code to convert from .HEIC to .JPG format. This was created when finding out that microsoft charges additional to download HEVC Video Extensions just for viewing the photos
 
-##How to use 
+# How to use 
 Set up folder as a project in Pycharm, 
 Store your .HEIC photos/folders in "sadformat" 
 Import the necessary libraries
